@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: blambotestasd
+  description: asdsadsads
+spec:
+  type: website
+  lifecycle: experimental
+  owner: guest
